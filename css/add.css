@@ -90,7 +90,7 @@ input[type=button]{
 }
  
 input[type=button]:hover{
- background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+ background: linear-gradientg (green 5%, #ffbc00 100%);
 }
 
 
