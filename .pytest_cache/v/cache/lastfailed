@@ -1,0 +1,19 @@
+{
+  "tests/test_user.py": true, 
+  "tests/test_user.py::TestUserApi::test_correct_admin_status_change": true, 
+  "tests/test_user.py::TestUserApi::test_correct_credential_login": true, 
+  "tests/test_user.py::TestUserApi::test_email_missing_character_login": true, 
+  "tests/test_user.py::TestUserApi::test_empty_email_login": true, 
+  "tests/test_user.py::TestUserApi::test_incorrect_credential_login": true, 
+  "tests/test_user.py::TestUserApi::test_incorrect_user_login": true, 
+  "tests/test_user.py::TestUserApi::test_non_string_email_type_login": true, 
+  "tests/test_user.py::TestUserApi::test_retrieve_admin_status": true, 
+  "tests/test_user.py::TestUserApi::test_string_type_email_signup": true, 
+  "tests/test_user.py::TestUserApi::test_successful_signup": true, 
+  "tests/test_user.py::TestUserApi::test_unique_user_signup": true, 
+  "tests/test_user.py::TestUserApi::test_wrong_credentials_signup": true, 
+  "tests/test_user.py::TestUserApi::test_wrong_email_end_login": true, 
+  "tests/test_user.py::TestUserApi::test_wrong_email_end_signup": true, 
+  "tests/test_user.py::TestUserApi::test_wrong_format_credentials_login": true, 
+  "tests/test_user.py::TestUserApi::test_wrong_format_credentials_signup": true
+}
